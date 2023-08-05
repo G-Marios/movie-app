@@ -96,6 +96,7 @@ p.collapsible {
 }
 
 .show-more {
+    color: #fff;
     border: 1px solid black;
     padding: 15px 10px;
     text-decoration: none;
